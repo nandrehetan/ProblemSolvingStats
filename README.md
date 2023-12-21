@@ -6,12 +6,14 @@ This repository contains the problem-solving statistics of a user across various
 
 ## User Details
 
-- Codeforces: [hetanhnandre](https://codeforces.com/profile/hetanhnandre) - Solve Count: 1254
-- CodeChef: [imhetanhnandre](https://www.codechef.com/users/imhetanhnandre) - Solve Count: 199
-- AtCoder: [YouKn0wWho](https://atcoder.jp/users/hetanhnandre) - Solve Count: 111
-- HackerEarth: [hetannandre2003](https://www.hackerearth.com/@hetannandre2003) - Solve Count: 39
-- HackerRank: [aldehyde](https://www.hackerrank.com/profile/aldehyde) - Solve Count: 125
-- LeetCode: [hetanhnandre](https://leetcode.com/hetanhnandre/) - Solve Count: 238
+| Online Judge   | Username                  | Profile Link                                         | Solve Count |
+|-----------------|---------------------------|------------------------------------------------------|-------------|
+| Codeforces      | hetanhnandre              | [hetanhnandre](https://codeforces.com/profile/hetanhnandre) | 1254        |
+| CodeChef        | imhetanhnandre            | [imhetanhnandre](https://www.codechef.com/users/imhetanhnandre) | 199         |
+| AtCoder         | YouKn0wWho                | [hetanhnandre](https://atcoder.jp/users/hetanhnandre) | 111         |
+| HackerEarth     | hetannandre2003           | [hetannandre2003](https://www.hackerearth.com/@hetannandre2003) | 39          |
+| HackerRank      | aldehyde                  | [aldehyde](https://www.hackerrank.com/profile/aldehyde) | 125         |
+| LeetCode        | hetanhnandre              | [hetanhnandre](https://leetcode.com/hetanhnandre/) | 238         |
 
 ## Total Solve Count
 
