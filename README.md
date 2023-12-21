@@ -1,7 +1,5 @@
 # ProblemSolvingStats
 
-# Problem Solving Stats
-
 This repository contains the problem-solving statistics of a user across various online judges.
 
 ## User Details
